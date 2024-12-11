@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+}
+
+.container {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  display: flex;
+  place-items: center;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.87);
+}
+.card {
+  margin-top: 6vh;
+  
+  width:  65vh;
+  height: 85vh;
+  border-radius: 15px;
+  background: #474747;
+  box-shadow: 15px 15px 16px rgb(25, 25, 25),
+            
+ }
+ 
+ 
